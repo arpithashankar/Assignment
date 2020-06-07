@@ -1,0 +1,7 @@
+E:\c#\Deckofcards\Deckofcards\bin\Debug\Deckofcards.exe.config
+E:\c#\Deckofcards\Deckofcards\bin\Debug\Deckofcards.exe
+E:\c#\Deckofcards\Deckofcards\bin\Debug\Deckofcards.pdb
+E:\c#\Deckofcards\Deckofcards\obj\Debug\Deckofcards.csprojAssemblyReference.cache
+E:\c#\Deckofcards\Deckofcards\obj\Debug\Deckofcards.csproj.CoreCompileInputs.cache
+E:\c#\Deckofcards\Deckofcards\obj\Debug\Deckofcards.exe
+E:\c#\Deckofcards\Deckofcards\obj\Debug\Deckofcards.pdb
